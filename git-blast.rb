@@ -5,8 +5,8 @@
 class GitBlast < Formula
   desc "git-blast: show git branches sorted by last commit date Raw"
   homepage "https://github.com/wolever/git-blast/"
-  url "https://github.com/wolever/git-blast/archive/v0.1.tar.gz"
-  sha256 "1ca590a2ba3dd678cb2781d17a567baab2624d6732b94af995b6ccf3e01a95c2"
+  url "https://github.com/wolever/git-blast/archive/v0.2.tar.gz"
+  sha256 "1b0fc43819e77bd935ad8abb6425ad0456eca999133375d38cc3ce171d6fc811"
 
   def install
     bin.install "./git-blast"
